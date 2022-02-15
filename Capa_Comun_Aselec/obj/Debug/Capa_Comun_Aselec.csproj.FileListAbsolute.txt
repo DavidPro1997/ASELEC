@@ -1,0 +1,16 @@
+C:\Users\hp\Source\Repos\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\hp\Source\Repos\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\hp\Source\Repos\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.dll
+C:\Users\hp\Source\Repos\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.pdb
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.dll
+D:\Documents\Visual Studio 2019\Projects\v2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.pdb
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.dll
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\bin\Debug\Capa_Comun_Aselec.pdb
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.csproj.AssemblyReference.cache
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.dll
+C:\Users\david\Documents\EPN\Semestre 2020-B\programacion Basada en Eventos\Proyecto\Borrador2\Menu\Capa_Comun_Aselec\obj\Debug\Capa_Comun_Aselec.pdb
